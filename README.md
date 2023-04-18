@@ -15,7 +15,7 @@
    databases are setup through properties files,  
    - /crmapp/src/main/resources/persistence-mysql.properties       Hiberate, client database and pool setup
    - /crmapp/src/main/resources/security-persistence-mysql.properties   security database and pool setup
-   -  
+   
 # Running Application:
 - Run application on server
 - Open http://localhost:[default-port]/ in local browser
